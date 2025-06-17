@@ -1,3 +1,4 @@
-current_age =18
-my_age = current_age + 42
-print(my_age)
+fist_name = input("Enter your fist name")
+Last_name = input("Enter your last name")
+
+print(fist_name, Last_name)
