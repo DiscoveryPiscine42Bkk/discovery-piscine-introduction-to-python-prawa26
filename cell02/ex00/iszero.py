@@ -1,5 +1,5 @@
 
-value = int(input(0))
+value = int(input())
 
 if value == 0:
 	print("This number is equal to zero")
