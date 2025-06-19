@@ -6,6 +6,6 @@ scientists = {
     "a": { "name": "G", "date_of_birth": "3333" },
     "b": { "name": "E", "date_of_birth": "6666" },
     "c": { "name": "N", "date_of_birth": "1000" },
-    "d": { "name": "O", "dath_of_birth": "2007" }
+    "d": { "name": "O", "date_of_birth": "2007" }
 }
 famous_births(scientists)

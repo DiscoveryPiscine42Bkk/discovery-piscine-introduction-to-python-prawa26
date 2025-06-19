@@ -1,5 +1,6 @@
 def genopum(family):
-    return list(filter(lambda name: family[name] == " pum", family.key()))
+    return list(filter(lambda name: family[name] == "pum", family.keys()))
+
 dupont_family = {
     "pum": "pum",
     "geno": "geno",
@@ -7,4 +8,5 @@ dupont_family = {
     "chutinun": "pum",
     "yungmak": "pum",
 }
+
 print(genopum(dupont_family))
